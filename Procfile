@@ -1,1 +1,1 @@
-worker: python VDS5eylul.py
+worker: python ./VDS5eylul.py

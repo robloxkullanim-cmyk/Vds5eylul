@@ -1,3 +1,6 @@
+import os
+os.system("pip install aiogram")
+
 import telebot
 from telebot import types
 import sqlite3
